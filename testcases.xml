@@ -1,0 +1,7 @@
+
+<testcases>
+    <case>
+        <url>http://192.168.1.70:8085/i?session_duration=62&amp;app_key=4d2a3b70d56cf8a493774558aa6e36a7f1f638ae&amp;device_id=73.2997462018_WEB950_tmp43074&amp;sdk_name=javascript_native_web&amp;sdk_version=17.04&amp;city=%E5%B1%80%E5%9F%9F%E7%BD%91%20%E5%B1%80%E5%9F%9F%E7%BD%91%20&amp;ip_address=192.168.1.70&amp;timestamp=1498731074161&amp;hour=18&amp;dow=4</url>
+    </case>
+    
+</testcases>
