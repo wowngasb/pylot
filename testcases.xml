@@ -1,7 +1,13 @@
 
 <testcases>
     <case>
-        <url>http://www.xdysoft.com/api/RoomAssist/getPlayerInfo?room_id=1000&amp;vod_id=0&amp;admin_id=0&amp;player_id=0</url>
+        <url>http://localhost:88/vn/index.html</url>
+    </case>
+    <case>
+        <url>http://localhost:88/nginx_status</url>
+    </case>
+    <case>
+        <url>http://localhost:88/non_block</url>
     </case>
     
 </testcases>
